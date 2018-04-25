@@ -1,0 +1,3 @@
+#!/bin/sh
+export ILLNESS_DATABASE_URL=database/illness.sql
+cargo run
